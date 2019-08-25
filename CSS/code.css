@@ -9,5 +9,6 @@ body{
     display: inline;
 }
 .nomeimg {
-    background-image: url("img/background-img.jpeg")
+    background-image:
+    url("img/backgroud-img.jpg");
 }
