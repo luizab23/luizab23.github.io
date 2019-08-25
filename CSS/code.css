@@ -1,3 +1,13 @@
-body {
-    text-align: center;
+body{
+    text-align:center;
+}
+
+.navigation ul {
+    text-align: left;
+}
+.navigation li{
+    display: inline;
+}
+.nomeimg {
+    background-image: url("img/background-img.jpeg")
 }
